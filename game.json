@@ -2,9 +2,9 @@
   "gameversion":1,
   "dilversion":1,
   "loadversion":1
-  "loadUrl":"",
-  "dilUrl":"",
-  "gameUrl": "",
+  "loadUrl":"https://raw.githubusercontent.com/yasar453/raxdata/refs/heads/main/load",
+  "dilUrl":"https://raw.githubusercontent.com/yasar453/raxdata/refs/heads/main/dil",
+  "gameUrl": "https://github.com/yasar453/raxdata/raw/refs/heads/main",
   "load":{"anim","askerload","dem","game","load","one","rapor","raporO","raporT","raporTr","tridhero","two"},
   "diller":"en","de","it","fr","es","endo","tr","es","pt"
 }
