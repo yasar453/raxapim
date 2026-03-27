@@ -1,6 +1,9 @@
-{  
-  "loadversion":1,
+{ 
   "gameversion":1,
   "dilversion":1,
-  "gameUrl": ""
+  "loadversion":1
+  "loadUrl":"",
+  "dilUrl":"",
+  "gameUrl": "",
+  "load":{"anim","askerload","dem","game","load","one","rapor","raporO","raporT","raporTr","tridhero","two"}
 }
