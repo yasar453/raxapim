@@ -5,5 +5,6 @@
   "loadUrl":"",
   "dilUrl":"",
   "gameUrl": "",
-  "load":{"anim","askerload","dem","game","load","one","rapor","raporO","raporT","raporTr","tridhero","two"}
+  "load":{"anim","askerload","dem","game","load","one","rapor","raporO","raporT","raporTr","tridhero","two"},
+  "diller":"en","de","it","fr","es","endo","tr","es","pt"
 }
