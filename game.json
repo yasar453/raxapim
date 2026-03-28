@@ -1,7 +1,7 @@
 {
-  "gameversion": 1,
-  "dilversion": 1,
-  "loadversion": 1,
+  "gameversion": 2,
+  "dilversion": 2,
+  "loadversion": 2,
   "loadUrl": "https://raw.githubusercontent.com/yasar453/raxdata/refs/heads/main/load",
   "dilUrl": "https://raw.githubusercontent.com/yasar453/raxdata/refs/heads/main/dil",
   "gameUrl": "https://github.com/yasar453/raxdata/raw/refs/heads/main",
