@@ -5,10 +5,7 @@
   "loadUrl": "https://raw.githubusercontent.com/yasar453/raxdata/refs/heads/main/load",
   "dilUrl": "https://raw.githubusercontent.com/yasar453/raxdata/refs/heads/main/dil",
   "gameUrl": "https://github.com/yasar453/raxdata/raw/refs/heads/main",
-  "load": [
-    "askerload", "dem", "game", "load", "one", "rapor", 
-    "raporO", "raporT", "raporTr", "two"
-  ],
+  "load": ["game"],
   "diller": [
     "de", "it", "fr", "pt", "en", "es", "tr", "ro","endo"
   ]
